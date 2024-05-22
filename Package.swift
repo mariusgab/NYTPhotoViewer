@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "NYTPhotoViewer",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v9)
     ],
     products: [
         .library(
@@ -13,7 +13,7 @@ let package = Package(
             ),
     ],
     dependencies: [
-        .package(url: "https://github.com/pinterest/PINRemoteImage.git", exact: "3.0.1")
+        .package(url: "https://github.com/pinterest/PINRemoteImage.git", exact: "3.0.3")
     ],
     targets: [
         .target(
