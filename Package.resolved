@@ -16,7 +16,7 @@
         "state": {
           "branch": null,
           "revision": "875c654984fb52b47ca65ae70d24852b0003ccd9",
-          "version": "3.0.3"
+          "version": "3.0.1"
         }
       },
       {
@@ -34,7 +34,7 @@
         "state": {
           "branch": null,
           "revision": "611d8ab1c6937bcdfd9d59a967716b0370a332be",
-          "version": "3.0.3"
+          "version": "3.0.1"
         }
       }
     ]
